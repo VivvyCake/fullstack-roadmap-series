@@ -20,7 +20,7 @@ const myArray = [myBoolean, myString];
 const myObject = {firstProperty : myArray, sumProperty: firstNumber + secondNumber}
 
 //8
-connsole.log(myObject);
+console.log(myObject);
 
 //9
 console.log(myObject.sumProperty)
